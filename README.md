@@ -1,1 +1,1 @@
-# Bear-and-Steady-Gene-ALGO-MEDIUM
+# Bear-and-Steady-Gene-ALGO-MEDIUM.The function counts each nucleotide and uses a sliding window to find the smallest substring that, if replaced, balances all nucleotide counts to n/4. It efficiently tracks how many characters must be “removed” from the window to achieve a steady gene.
